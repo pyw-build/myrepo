@@ -1,2 +1,2 @@
-# myrepo2
+# myrepo
 A test repo
